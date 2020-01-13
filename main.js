@@ -11,3 +11,17 @@ const productsDOM = document.querySelector('.products-center');
 
 //main cart
 let cart = [];
+
+
+class Products {
+
+}
+// display products
+class UI {
+
+}
+
+//local storage
+class Storage {
+
+}
